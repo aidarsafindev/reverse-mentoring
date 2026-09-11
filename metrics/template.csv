@@ -1,0 +1,5 @@
+date,junior,lead,topic,status,implemented,savings_hours,lead_satisfaction,junior_satisfaction
+2026-03-15,Анна,Дмитрий,Docker для тестовых сред,implemented,yes,300,5,5
+2026-03-22,Борис,Елена,AI-ассистент для код-ревью,implemented,yes,120,5,4
+2026-03-29,Виктор,Дмитрий,Оптимизация CI/CD,implemented,yes,720,5,5
+2026-04-05,Анна,Елена,gRPC для интеграций,postponed,no,0,4,4
